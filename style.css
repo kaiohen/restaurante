@@ -1,0 +1,119 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+.menu{
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 80px;
+    box-shadow: 0 0 10px rgb(129, 129, 129);
+}
+h1 {
+    text-align: center;
+    color: #333;
+	padding: 15px;
+	margin: 5px;
+}
+.item {
+    border-bottom: 5px solid #ddd;
+    padding: 15px 0;
+}
+h2 {
+    color: rgb(51, 51, 51);
+}
+p {
+    color: #666;
+}
+span {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333;
+}
+h3{
+	text-align: left;
+	color: white;
+}
+.prato{
+	width: 8%;
+	border-radius: 10px;
+	position: absolute;
+	top: 160px;
+	right: 280px;
+}
+.carbo{
+	width: 8%;
+	border-radius: 10px;
+	position: absolute;
+	top: 270px;
+	right: 280px;
+}
+.salmao{
+	width: 8%;
+	border-radius: 10px;
+	position: absolute;
+	top: 380px;
+	right: 280px;
+}
+.bife{
+	width: 8%;
+	border-radius: 10px;
+	position: absolute;
+	top: 490px;
+	right: 280px;
+}
+.salada{
+	width: 8%;
+	border-radius: 10px;
+	position: absolute;
+	top: 590px;
+	right: 280px;
+}
+.frango{
+	width: 8%;
+	border-radius: 10px;
+	position: absolute;
+	top: 710px;
+	right: 280px;
+}
+h4{
+	color:white;
+}
+.belga{
+	width: 8%;
+	border-radius: 10px;
+	position: absolute;
+	top: 870px;
+	right: 280px;
+}
+.torta{
+	width: 10%;
+	border-radius: 10px;
+	position: absolute;
+	top: 990px;
+	right: 270px
+}
+.pudim{
+	width: 9%;
+	border-radius: 10px;
+	position: absolute;
+	top: 1100px;
+	right: 275px
+}
+footer{
+	height: 200px;
+	background-color: black;
+}
+.link{
+	color: #ffffff;
+}
+.meio{
+	text-align: center;
+	color: white
+}
